@@ -1,0 +1,217 @@
+*{
+    margin: 0;
+    padding:0;
+}
+body{
+    font-family: Montserrat, sans-serif;
+    font-weight: 600;
+    color: white;
+}
+.cont{
+   margin-left: 140px;
+   margin-right: 140px;
+}
+.bg-image{
+    background-image: url('./image/backgroundimage-1.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    height: 100vh;
+}
+.button1{
+    border: 1px solid white;
+    background-color: transparent;
+    padding: 20px;
+    font-size: 11px;
+    font-weight: 400;
+}
+.productimg{
+    width: 320px;
+    height: 390px;
+}
+.headding1{
+    font-family: "Cormorant Garamond", serif;
+    font-size: 75px;
+    font-weight: 700;
+    font-style: italic;
+}
+.paragrap1{
+    font-family: "Cormorant Garamond", serif;
+    color: black;
+    font-weight: 700;
+    font-style: italic;
+
+}
+
+.container1{
+    margin: 0px 100px;
+}
+.ciricll1{
+    width: 20px;
+    height: 20px;
+    background-color: black;
+    border-radius: 50%;
+}
+.ciricll2{
+    width: 20px;
+    height: 20px;
+    background-color: green;
+    border-radius: 50%;
+}
+.ciricll3{
+    width: 20px;
+    height: 20px;
+    background-color: red;
+    border-radius: 50%;
+}
+.ciricll4{
+    width: 20px;
+    height: 20px;
+    background-color: white;
+    border-radius: 50%;
+    border: 1px solid black;
+}
+.cardcont{
+    color: black;
+
+}
+.bg-image1{
+    background-image: url('./image/backgroundimage-2.jpg');
+    height: 120vh;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.section__3{
+    display: flex;
+    flex-direction: column;
+    align-items: end;
+    
+}
+.section__3 h1{
+font-family: "Cormorant Garamond", serif;
+    font-size: 45px;
+    font-weight: 700;
+    font-style: italic;
+}
+
+
+.section__3__inner{
+   padding-right: 140px;
+}
+
+button{
+    border: 1px solid white;
+    background-color: transparent;
+    padding: 20px;
+    font-size: 11px;
+    font-weight: 400;
+}
+.img-background{
+    background-image: url(./image/backgroundimage-3.jpg);
+    height: 800px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.white-background{
+    background-color: white;
+    width: 50%;
+    height: 800px;
+    color: black;
+    font-family: Montserrat, sans-serif;
+    font-weight: 600;
+    font-size: 14px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+}
+.white-background h1{
+    font-size: 54px;
+    font-family: "Cormorant Garamond", serif;
+    font-style: italic;
+    font-weight: 700;
+}
+.innerdiv{
+        margin-left: 100px;
+    margin-right: 100px;
+}
+.btn{
+     border: 1px solid white;
+    background-color: transparent;
+    padding: 10px;
+    font-size: 11px;
+    font-weight: 400;
+    border: 1px solid black;
+    width: 100px;
+}
+.bg-image2{
+background-image: url('./image/backgroundimage-4.jpg');
+    height: 120vh;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.section__4{
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    
+}
+.section__4 h1{
+font-family: "Cormorant Garamond", serif;
+    font-size: 45px;
+    font-weight: 700;
+    font-style: italic;
+}
+
+
+.section__4__inner{
+   padding-right: 140px;
+}
+footer{
+    color: black;
+    background-color: #F6F6F6;
+    font-weight: 400;
+
+}
+.h1{
+    font-family:"Cormorant Garamond", serif;
+    font-size: 20px;
+    font-style: italic;
+    font-weight: bold;
+}
+.bg-image3{
+ background-image: url('./image/backgroundimage-t5.jpg');
+    height: 100vh;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.section__5{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    
+}
+.section__5 h1{
+font-family: "Cormorant Garamond", serif;
+    font-size: 34px;
+    font-weight: 700;
+    font-style: italic;
+}
+.nav1{
+    color: black;
+    border-bottom: 1px solid black;
+    width: 100%;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+.productsection1{
+    color: black;
+    margin: 0px 140px;
+}
+.searchdiv{
+    display: flex;
+    justify-content: space-between;
+}
