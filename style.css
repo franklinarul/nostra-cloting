@@ -216,7 +216,7 @@ font-family: "Cormorant Garamond", serif;
     justify-content: space-between;
 }
 .bannerimg1{
-    background-image: url('image/bannerimage-1.jpg');
+    background-image: url('./image/bannerimage-1.jpg');
     height: 555px;
     background-size: cover;
     background-repeat: no-repeat;
